@@ -8,6 +8,7 @@ I have done my Bachelors in Sociology, Economics and Psychology (Hons.) from Ban
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anshalonewolf@gmail.com](mailto:anshalonewolf@gmail.com)
+* 🚀  I'm currently working on [https://substack.com/@peepingtom](http://https://substack.com/@peepingtom)
 * 🧠  I'm learning Sociology and Anthropology.
 * ⚡  I also write blogs on topics related to Anthropology, Sociology, Psychology and Neuroscience.
 
