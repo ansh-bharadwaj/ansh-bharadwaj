@@ -1,6 +1,3 @@
-PREVIEW
-MARKDOWN
-COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ansh Bharadwaj
 ======================================================================================================================================
 
@@ -11,7 +8,9 @@ I have done my Bachelors in Sociology, Economics and Psychology (Hons.) from Ban
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anshalonewolf@gmail.com](mailto:anshalonewolf@gmail.com)
+* 🚀  I'm currently working on [https://substack.com/@peepingtom](http://https://substack.com/@peepingtom)
 * 🧠  I'm learning Sociology and Anthropology.
+* ⚡  I write blogs on Substack on topics related to Anthropology, Sociology, Psychology and Neuroscience.
 
 <a href="https://www.x.com/Richtwis" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Richtwis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
